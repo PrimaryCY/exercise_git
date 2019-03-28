@@ -1,2 +1,2 @@
 # exercise_git
-联系git使用
+个人练习git使用
