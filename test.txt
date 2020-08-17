@@ -7,7 +7,6 @@ dev 1 four
 21312312
 dsadsadsadas
 dsadsads
-sasddas
 123213
 
 class test:
